@@ -43,12 +43,16 @@ O **ELCC** representa essencialmente uma
 **trilha que concebi para meu próprio estudo dentro do campo da Ciência da
 Computação**.
 
+Decidi que não teria mais constragimente de mostrar o que estou aprendendo e compartilhar públicamente. (_mesmo que esteja errado :P_)
+
 Embora não se configure como uma recomendação estrita de
 currículo, é livremente disponibilizada para uso conforme a preferência
 individual.
 
 Os materiais são simplesmente uma nota do que eu usei para estudar.
 Novamente, não se restrinjam a essa lista.
+
+Os tópicos ainda não estão totalmente organizados, por agora, apenas listei o que pretendo estudar.
 
 <i> Inspirado em
 [UBL](https://github.com/Universidade-Livre/ciencia-da-computacao) e
