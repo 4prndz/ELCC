@@ -56,177 +56,243 @@ Novamente, não se restrinjam a essa lista.
 
 # Curriculum
 
-## Core programming
+## Core Programming
 
-### functional programming
+### Programming Paradigms
 
-### design for testing
+#### Declarative Programming
 
-### program requirements
+##### Functional Programming
 
-### common design patterns
+##### Logic Programming
 
-### unit testing
+##### Reactive Programming
 
-### object-oriented design
+#### Imperative Paradigms
 
-### static typing
+##### Procedural Programming
 
-### dynamic typing
+##### Object-Oriented Programming
 
-### ML-family languages (via Standard ML)
+###### UML (Unified Modeling Language)
 
-### Lisp-family languages (via Racket)
+###### Object-Oriented Analysis and Design
 
-### Ruby
+#### Other Paradigms
 
-### debugging theory and practice
+##### Literate Programming
 
-### goal-oriented programming
+##### Meta Programming
 
-### parallel computing
+##### Structured Programming
 
-### object-oriented analysis and design
+##### Generic Programming
 
-### UML
+### Software Design and Testing
 
-### large-scale software architecture and design
+#### Design for Testing
+
+#### Unit Testing
+
+#### Program Requirements
+
+#### Common Design Patterns
+
+#### Large-Scale Software Architecture and Design
+
+#### Parallel Computing
+
+#### Goal-Oriented Programming
+
+### Programming Languages and Typing
+
+#### Dynamic Typing
+
+#### Static Typing
+
+#### ML-family Languages (via Standard ML)
+
+#### Lisp-family Languages (via Racket)
+
+### Debugging and Analysis
+
+#### Debugging Theory and Practice
+
+### Low-Level Programming
+
+#### Low-level Programming in C and Assembly
 
 ---
 
-## Core math
+## Core Mathmatics
 
-### discrete mathematics
+### Discrete Mathematics
 
-### mathematical proofs
+### Mathematical Proofs
 
-### statistics
+### Statistics
 
 ### O-notation
 
-### discrete probability
+### Discrete Probability
 
-### algebra
+### Algebra
 
-### calculus
+### Calculus
+
+### Graph Theory
 
 ---
 
 ## CS Tools
 
-### terminals and shell scripting
+### Terminals and Shell
 
-### vim
+#### Shell Scripting
 
-### command line environments
+### Vim
 
-### version control
+#### NVim
+
+### Command Line Environments
+
+### Version Control
+
+#### Git/GitHub
 
 ---
 
-## Core systems
+## Core Systems
 
-### procedural programming
+### Computing Hardware
 
-### manual memory management
+### Manual Memory Management
 
-### boolean algebra
+### Boolean Algebra
 
-### gate logic
+### Gate Logic
 
-### memory
+### Memory
 
-### computer architecture
+### Computer Architecture
 
-### assembly
+### Design of VLSI Circuits and Systems
 
-### machine language
+### Assembly
 
-### virtual machines
+### Machine Language
 
-### high-level languages
+### Virtual Machines
 
-### compilers
+### High-Level Languages
 
-### operating systems
+### Compilers
 
-### network protocols
+### Operating Systems
 
-### digital signaling
+### Network
 
-### combinational logic
+### Computer Network
 
-### CMOS technologies
+### Networks Design Projects
 
-### sequential logic
+### Digital Signaling
 
-### finite state machines
+### Combinational Logic
 
-### processor instruction sets
+### CMOS Technologies
 
-### caches
+### Sequential Logic
 
-### pipelining
+### Finite State Machines
 
-### virtualization
+### Processor Instruction Sets
 
-### parallel processing
+### Caches
 
-### virtual memory
+### Pipelining
 
-### synchronization primitives
+### Virtualization
 
-### system call interface
+### Parallel Processing
+
+### Virtual Memory
+
+### Synchronization Primitives
+
+### System Call Interface
+
+### Programming Languages
+
+### Computer Graphics
+
+### System Programming & Machine Organization
+
+### Data Systems
 
 ---
 
 ## Core theory
 
-### divide and conquer
+### Introduction to The Theory of Computation
 
-### sorting and searching
+### Computational Linguistics
 
-### randomized algorithms
+### Algorithms and Complexity
 
-### graph search
+### Divide and Conquer
 
-### shortest paths
+### Sorting and Searching
 
-### data structures
+### Randomized Algorithms
 
-### greedy algorithms
+### Graph Search
 
-### minimum spanning trees
+### Shortest Paths
 
-### dynamic programming
+### Data Structures
 
-### NP-completeness
+### Greedy Algorithms
 
-### formal languages
+### Minimum Spanning Trees
 
-### Turing machines
+### Dynamic Programming
 
-### computability
+### NP-Completeness
 
-### event-driven concurrency
+### Formal Languages
 
-### automata
+### Turing Machines
 
-### distributed shared memory
+### Computability
 
-### consensus algorithms
+### Event-Driven Concurrency
 
-### state machine replication
+### Automata
 
-### computational geometry theory
+### Distributed Shared Memory
 
-### propositional logic
+### Consensus Algorithms
 
-### relational logic
+### State Machine Replication
 
-### Herbrand logic
+### Computational Geometry Theory
 
-### game trees
+### Propositional Logic
+
+### Relational Logic
+
+### Herbrand Logic
+
+### Game Trees
+
+### Machine Learning
+
+### Data Science
+
+### Visualization
+
+### Design of Usable Interactive Systems
 
 ---
 
@@ -248,29 +314,29 @@ Novamente, não se restrinjam a essa lista.
 
 ## Core applications
 
-### Agile methodology
+### Agile Methodology
 
 ### REST
 
-### software specifications
+### Software Specifications
 
-### refactoring
+### Refactoring
 
-### relational databases
+### Relational Databases
 
-### transaction processing
+### Transaction Processing
 
-### data modeling
+### Data Modeling
 
-### neural networks
+### Neural Networks
 
-### supervised learning
+### Supervised Learning
 
-### unsupervised learning
+### Unsupervised Learning
 
 ### OpenGL
 
-### ray tracing
+### Ray Tracing
 
 ---
 
